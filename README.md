@@ -3,6 +3,11 @@
 ## Description
 Employee Manager is a useful command line application to manage your Employees using an [MySQL](https://www.mysql.com/) database. Choose from a variety of options to view, add or edit employees and more right from this command line interface. The application uses [Inquirer.js](https://www.npmjs.com/package/inquirer) to run and display commands.
 
+## Table of Contents
+* [Installation Instructions](#installation)
+
+<a name="installation"><a/>
+
 ## Installation Instructions
 
 1. Install MySQL
