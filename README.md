@@ -4,10 +4,13 @@
 Employee Manage is a useful command line application to manage your Employees using an MySQL database.
 
 ## Installation Instructions
+
 1. Install MySQL
-2. Login to MySQL using ```mysql -u root -p```
-3. Enter your password (should be "password")
-4. Run the sql queries one by one in the ./sql folder using ``````
+
+### Login to MySQL using 
+```
+mysql -u root -p
+```
 
 ### Run the sql queries one by one
 ```
