@@ -11,9 +11,8 @@ Employee Manage is a useful command line application to manage your Employees us
 
 ### To Install the Packages
 
-6. ```
- $ npm i 
- ```
+6. ```$ npm i 
+```
 
 ## Usage
 1. ```npm start``` to start the command line application
