@@ -10,5 +10,8 @@ Add the following tables from with the schema from the ```./sql``` folder. Depar
 
 Start the app using ```npm start```
 
+## Demo
+![demo picture](https://github.com/jakeadelman/Employee-Manager/blob/master/pictures/employeemanager.png)
+
 ## Liscence
 MIT Liscence
