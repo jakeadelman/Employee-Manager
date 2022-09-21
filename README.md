@@ -5,6 +5,9 @@ Employee Manager is a useful command line application to manage your Employees u
 
 ## Table of Contents
 * [Installation Instructions](#installation)
+* [Usage](#usage)
+* [Demo](#demo)
+* [Liscence](#liscence)
 
 <a name="installation"><a/>
 
@@ -27,6 +30,8 @@ $ source ./sql/(filename)
 ```
 $ npm i 
 ```
+  
+<a name="usage"></a>
 
 ## Usage
 
@@ -59,9 +64,13 @@ Returns a lis of all departments. (Id, Department Name)
 Add a department enter the department name.
 
 ```
+  
+<a name="demo"></a>
 
 ## Demo
 ![demo picture](https://github.com/jakeadelman/Employee-Manager/blob/master/pictures/employeemanager.png)
 
+<a name="liscence"></a> 
+ 
 ## Liscence
 MIT Liscence
