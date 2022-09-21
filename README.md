@@ -9,12 +9,12 @@ Employee Manage is a useful command line application to manage your Employees us
 
 ### Login to MySQL using 
 ```
-mysql -u root -p
+$ mysql -u root -p
 ```
 
 ### Run the sql queries one by one
 ```
-source ./sql/(filename)
+$ source ./sql/(filename)
 ```
 
 ### To install the packages
@@ -24,9 +24,13 @@ $ npm i
 ```
 
 ## Usage
-1. ```npm start``` to start the command line application
 
-### View All Employees
+### Start the command line application
+```
+npm start
+```
+
+### View all employees
 Returns a list of all employees
 
 ## Demo
