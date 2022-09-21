@@ -30,9 +30,15 @@ $ npm i
 $ npm start
 ```
 
+### Commands
 ```
-### View all employees
-Returns a list of all employees
+-> View all employees
+Returns a list of all employees. (First Name, Last Name, Title, Department, Salary, Manager)
+
+-> Add an employee
+Add an employee enter First Name, Last Name, Choose a Role, Choose a Manager.
+
+
 ```
 
 ## Demo
