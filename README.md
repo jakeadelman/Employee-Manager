@@ -7,11 +7,14 @@ Employee Manage is a useful command line application to manage your Employees us
 1. Install MySQL
 2. Login to MySQL using ```mysql -u root -p```
 3. Enter your password (should be "password")
-4. Run the sql queries one by one in the ./sql folder using ```source ./sql/(filename)```
+4. Run the sql queries one by one in the ./sql folder using ``````
 
-### To Install the Packages
+### Run the sql queries one by one
+```
+source ./sql/(filename)
+```
 
-6.
+### To install the packages
 
 ```
 $ npm i 
