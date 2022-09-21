@@ -1,7 +1,7 @@
 # Employee Manager
 
 ## Description
-Employee Manage is a useful command line application to manage your Employees using an MySQL database. Choose from a variety of options to view, add or edit employees and more right from this commande line interface.
+Employee Manage is a useful command line application to manage your Employees using an [MySQL](https://www.mysql.com/) database. Choose from a variety of options to view, add or edit employees and more right from this commande line interface.
 
 ## Installation Instructions
 
