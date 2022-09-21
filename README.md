@@ -27,11 +27,13 @@ $ npm i
 
 ### Start the command line application
 ```
-npm start
+$ npm start
 ```
 
+```
 ### View all employees
 Returns a list of all employees
+```
 
 ## Demo
 ![demo picture](https://github.com/jakeadelman/Employee-Manager/blob/master/pictures/employeemanager.png)
