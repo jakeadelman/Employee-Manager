@@ -13,6 +13,9 @@ Employee Manage is a useful command line application to manage your Employees us
 ## Usage
 1. ```npm start``` to start the command line application
 
+### View All Employees
+Returns a list of all employees
+
 ## Demo
 ![demo picture](https://github.com/jakeadelman/Employee-Manager/blob/master/pictures/employeemanager.png)
 
